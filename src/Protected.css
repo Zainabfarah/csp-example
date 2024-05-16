@@ -1,0 +1,19 @@
+.protected-container {
+    text-align: center;
+    padding: 2rem;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    max-width: 400px;
+    margin: 2rem auto;
+  }
+  
+  .protected-container h1 {
+    color: #333;
+    margin-bottom: 1rem;
+  }
+  
+  .protected-container p {
+    color: #666;
+  }
+  
